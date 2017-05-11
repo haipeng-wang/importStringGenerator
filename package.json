@@ -1,0 +1,15 @@
+{
+  "name": "import-string-generator",
+  "version": "1.0.0",
+  "description": "generate import header string for UI import",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haipeng Wang",
+  "license": "ISC"
+}
